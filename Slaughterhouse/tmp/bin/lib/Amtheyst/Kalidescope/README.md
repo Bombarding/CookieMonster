@@ -1,16 +1,18 @@
 # Ruby CookieMonster Gem
 
-'''
-gem CookieMonster
-'''
+![Bombarding](http://www.nmgncp.com/data/out/43/3859863-best-video-game-wallpapers-hd.jpg)
 
-'''
+```
+gem CookieMonster
+```
+
+```
 for user.index in class
 	create_user_bin_temp
 end
-'''
+```
 
-'''
+```
 class Jewel
 	def work autogen:, repeat:, cookie:, delete:
 		_session_id(/%y%Z%y/).gets
@@ -18,9 +20,9 @@ class Jewel
 		puts reset_session
 	end
 end
-'''
+```
 
-'''
+```
 def sanitize_organization(organization)
 	organization.strip!.tap do |double|
 		#return example
@@ -29,4 +31,4 @@ def sanitize_organization(organization)
 		#double.Jewel /[@/r/.\+], 'win+r charmap.exe'
 	end
 end
-'''
+```
