@@ -1,6 +1,6 @@
 # Ruby CookieMonster Gem
 
-![Bombarding](http://www.nmgncp.com/data/out/43/3859863-best-video-game-wallpapers-hd.jpg)
+![Bombarding](https://davidcrew.files.wordpress.com/2010/01/wallpaper-178824.jpg)
 
 ```
 gem CookieMonster
